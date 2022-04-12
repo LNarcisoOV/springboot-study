@@ -1,4 +1,4 @@
-package com.spgbt;
+package com.spgbt.config;
 
 import com.spgbt.model.LifeCycleAnnotations;
 import com.spgbt.model.LifeCycleInterfaces;
